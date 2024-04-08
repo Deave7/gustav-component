@@ -1,5 +1,5 @@
 import './App.scss'
-import Accordion from './components/Accordion'
+import Accordion from './components/Accordion/Accordion'
 
 function App() {
   
