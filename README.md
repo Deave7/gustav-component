@@ -2,6 +2,7 @@
 ## Gustav Syrén
 
 Jag har gjort en Accordion komponent som kan ta in följande props:  
+  
 ![image](https://github.com/Deave7/gustav-component/assets/136354455/c9be0200-7bf3-4669-be55-c753ae2637ce)
   
 Den har två olika teman som standard, "light" eller "dark"
