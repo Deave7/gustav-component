@@ -1,7 +1,5 @@
 import './App.scss'
 import Accordion from './components/Accordion/Accordion'
-
-export default App
 import ListBox from "./components/ListBox/ListBox";
 function App() {
   const listItems: string[] = [
